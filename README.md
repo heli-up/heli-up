@@ -85,4 +85,3 @@
   <img src="assets/footer.svg" width="900" alt="随北京时间与季节变化的工程场景；底部信号点来自最近 14 天公开活动采样。">
 </picture>
 
-<sub>场景随北京时间、季节与公开活动采样更新 · 原生 SVG / Python 标准库 · [设计与更新机制](docs/design.md)</sub>
