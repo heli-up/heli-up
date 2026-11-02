@@ -17,10 +17,10 @@
 
 ## 公开实现入口
 
-- [QuantAgent 仓库](https://github.com/helililili/QuantAgent)：本人账号下的 fork，README 说明了项目整体能力。
-- [前端看板](https://github.com/helililili/QuantAgent/blob/main/frontend/app/dashboard/page.tsx)
-- [Ollama 模型适配](https://github.com/helililili/QuantAgent/blob/main/backend/app/services/llm/ollama_provider.py)
-- [回测服务](https://github.com/helililili/QuantAgent/tree/main/backend/app/services/backtester)
+- [QuantAgent 仓库](https://github.com/heli-up/QuantAgent)：本人账号下的 fork，README 说明了项目整体能力。
+- [前端看板](https://github.com/heli-up/QuantAgent/blob/main/frontend/app/dashboard/page.tsx)
+- [Ollama 模型适配](https://github.com/heli-up/QuantAgent/blob/main/backend/app/services/llm/ollama_provider.py)
+- [回测服务](https://github.com/heli-up/QuantAgent/tree/main/backend/app/services/backtester)
 
 个人工作内容依据项目经历整理；公开仓库用于了解实现结构，不将整个团队项目归为个人独立成果。
 

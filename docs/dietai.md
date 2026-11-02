@@ -33,12 +33,12 @@
 
 ## 公开实现入口
 
-- [DietAI 仓库](https://github.com/helililili/DietAI)：本人账号下的 fork，包含项目整体实现。
-- [API 路由](https://github.com/helililili/DietAI/tree/main/routers)
-- [数据模型](https://github.com/helililili/DietAI/tree/main/shared/models)
-- [限流中间件](https://github.com/helililili/DietAI/blob/main/shared/middleware/rate_limiter.py)
-- [复合索引迁移](https://github.com/helililili/DietAI/blob/main/alembic/versions/b4c3_add_performance_indexes.py)
-- [定时任务](https://github.com/helililili/DietAI/blob/main/shared/tasks/scheduler.py)
-- [宠物形象生成](https://github.com/helililili/DietAI/blob/main/agent/diet_deep_agent/tools/pet_avatar_generator.py)
+- [DietAI 仓库](https://github.com/heli-up/DietAI)：本人账号下的 fork，包含项目整体实现。
+- [API 路由](https://github.com/heli-up/DietAI/tree/main/routers)
+- [数据模型](https://github.com/heli-up/DietAI/tree/main/shared/models)
+- [限流中间件](https://github.com/heli-up/DietAI/blob/main/shared/middleware/rate_limiter.py)
+- [复合索引迁移](https://github.com/heli-up/DietAI/blob/main/alembic/versions/b4c3_add_performance_indexes.py)
+- [定时任务](https://github.com/heli-up/DietAI/blob/main/shared/tasks/scheduler.py)
+- [宠物形象生成](https://github.com/heli-up/DietAI/blob/main/agent/diet_deep_agent/tools/pet_avatar_generator.py)
 
 [返回主页](../README.md)
