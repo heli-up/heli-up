@@ -13,7 +13,7 @@ NOW = profile.stamp('2026-11-02T06:00:00Z')
 
 class ProfileTests(unittest.TestCase):
     def event(self, **kwargs):
-        return {'type': 'PushEvent', 'created_at': '2026-11-02T06:00:00Z', 'actor': {'login': 'helililili'}, 'repo': {'name': 'helililili/QuantAgent'}, **kwargs}
+        return {'type': 'PushEvent', 'created_at': '2026-11-02T06:00:00Z', 'actor': {'login': 'heli-up'}, 'repo': {'name': 'heli-up/QuantAgent'}, **kwargs}
 
     def test_svg_all_time_and_theme_combinations(self):
         for month in (1, 4, 7, 10):
@@ -44,7 +44,7 @@ class ProfileTests(unittest.TestCase):
         self.assertIsNone(profile.activity_counts(None, NOW))
 
     def test_feed_uses_first_party_development_events(self):
-        events = [self.event(type='WatchEvent'), self.event(actor={'login': 'other'}), self.event(repo={'name': 'helililili/helililili'}), self.event(repo={'name': 'evil/](javascript:alert(1))'}), self.event(), self.event()]
+        events = [self.event(type='WatchEvent'), self.event(actor={'login': 'other'}), self.event(repo={'name': 'heli-up/heli-up'}), self.event(repo={'name': 'evil/](javascript:alert(1))'}), self.event(), self.event()]
         text = profile.activity_lines(events)
         self.assertEqual(text.count('推送代码'), 1)
         self.assertNotIn('javascript:', text)
