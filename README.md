@@ -16,11 +16,14 @@
 
 ## 技术与实践
 
-| 方向 | 使用的技术 | 对应实践 |
-| :--- | :--- | :--- |
-| AI 应用 | <code>DeepSeek</code> <code>Qwen</code> <code>OpenAI API</code> <code>Ollama</code> | 多角色协作、结构化生成、多模型对比与校验 |
-| 工程开发 | <code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Alembic</code> | API、数据建模、认证、限流与迁移 |
-| 界面与协作 | <code>Next.js</code> <code>shadcn/ui</code> <code>Git</code> <code>Swagger</code> | 研究看板、接口联调与组件复用 |
+**AI 应用** · 多角色协作、结构化生成与校验  
+<code>DeepSeek</code> <code>Qwen</code> <code>OpenAI API</code> <code>Ollama</code>
+
+**工程开发** · 接口、数据建模、认证与限流  
+<code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Alembic</code>
+
+**界面与协作** · 研究看板、接口联调与组件复用  
+<code>Next.js</code> <code>shadcn/ui</code> <code>Git</code> <code>Swagger</code>
 
 ## 项目案例
 
