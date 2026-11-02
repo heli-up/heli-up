@@ -13,7 +13,7 @@ import urllib.parse
 import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
-USER = 'helililili'
+USER = 'heli-up'
 LOCAL = timezone(timedelta(hours=8))
 START, END = '<!-- ACTIVITY:START -->', '<!-- ACTIVITY:END -->'
 FONT = "'Segoe UI','Microsoft YaHei','PingFang SC',sans-serif"
@@ -88,7 +88,7 @@ def header(now, dark=False):
     phase, season, accent = environment(now)
     s = f'<rect width="900" height="300" rx="14" fill="{p["bg"]}"/>'
     s += sky(p, phase, season, accent)
-    s += txt(38, 42, 'HELILILILI / AI APPLICATION ENGINEERING', 11, p['muted'], mono=True, extra='letter-spacing="1"')
+    s += txt(38, 42, 'HELI-UP / AI APPLICATION ENGINEERING', 11, p['muted'], mono=True, extra='letter-spacing="1"')
     s += txt(38, 111, '何丽', 46, p['ink'], 650)
     s += txt(38, 151, 'AI 应用开发 · 成都', 22, p['ink'], 500)
     s += txt(38, 180, '多智能体协作 / 数据生成与评估 / 后端工程', 14, p['muted'])
@@ -138,7 +138,7 @@ def mobile_header(now, dark=False):
     phase, season, accent = environment(now)
     s = f'<rect width="480" height="300" rx="14" fill="{p["bg"]}"/>'
     s += f'<g transform="translate(-420 0)">{sky(p, phase, season, accent)}</g>'
-    s += txt(26, 34, 'HELILILILI / AI ENGINEERING', 12, p['muted'], mono=True)
+    s += txt(26, 34, 'HELI-UP / AI ENGINEERING', 12, p['muted'], mono=True)
     s += txt(26, 101, '何丽', 46, p['ink'], 650)
     s += txt(26, 141, 'AI 应用开发 · 成都', 24, p['ink'], 500)
     s += txt(26, 174, '多智能体 / 数据管线 / 后端工程', 17, p['muted'])
