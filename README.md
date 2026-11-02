@@ -37,7 +37,7 @@
 </a>
 
 **开发成员** · 重构总览看板与研究台，参与多角色分析、多空辩论及本地模型链路。  
-[查看个人工作与实验](docs/quantagent.md) · [代码仓库（fork）](https://github.com/helililili/QuantAgent)
+[查看个人工作与实验](docs/quantagent.md) · [代码仓库（fork）](https://github.com/heli-up/QuantAgent)
 
 <a href="docs/data-pipeline.md">
   <picture>
@@ -61,7 +61,7 @@
 </a>
 
 **后端核心开发** · 负责分层架构、认证与业务接口，联调 AI 对话、饮食记录和宠物健康模块。  
-[查看架构与交付范围](docs/dietai.md) · [代码仓库（fork）](https://github.com/helililili/DietAI)
+[查看架构与交付范围](docs/dietai.md) · [代码仓库（fork）](https://github.com/heli-up/DietAI)
 
 <sub>项目规模与个人职责按项目经历整理；公开代码入口保留 fork 标识，具体实现与实验口径见各案例。</sub>
 
@@ -72,7 +72,7 @@
 - [AI 应用后端：从数据模型到接口交付](docs/dietai.md)
 
 <!-- ACTIVITY:START -->
-[查看 GitHub 公开开发动态](https://github.com/helililili?tab=overview#activity)
+[查看 GitHub 公开开发动态](https://github.com/heli-up?tab=overview#activity)
 <!-- ACTIVITY:END -->
 
 ## 联系
