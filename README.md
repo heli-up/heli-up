@@ -72,6 +72,7 @@
 - [AI 应用后端：从数据模型到接口交付](docs/dietai.md)
 
 <!-- ACTIVITY:START -->
+- 2026-11-19 · 推送代码 · [heli-up/embedease-ai](https://github.com/heli-up/embedease-ai)
 - 2026-11-19 · 推送代码 · [heli-up/resume-selection](https://github.com/heli-up/resume-selection)
 <!-- ACTIVITY:END -->
 
