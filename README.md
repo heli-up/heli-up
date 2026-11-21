@@ -72,7 +72,7 @@
 - [AI 应用后端：从数据模型到接口交付](docs/dietai.md)
 
 <!-- ACTIVITY:START -->
-[查看 GitHub 公开开发动态](https://github.com/heli-up?tab=overview#activity)
+- 2026-11-19 · 推送代码 · [heli-up/resume-selection](https://github.com/heli-up/resume-selection)
 <!-- ACTIVITY:END -->
 
 ## 联系
